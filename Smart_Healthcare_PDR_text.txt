@@ -1,0 +1,51 @@
+Smart Healthcare Monitoring & AI
+Consultation Platform
+Project Design Report (PDR)
+1. Introduction
+The Smart Healthcare Monitoring & AI Consultation Platform is a modern healthcare ecosystem designed to simplify
+personal health management through AI-assisted recommendations, emergency support systems, and smart
+monitoring features.
+2. Objectives
+The project aims to provide centralized healthcare management, AI-based suggestions, doctor appointment systems,
+medicine ordering, emergency healthcare support, and interactive health monitoring.
+3. Health Monitoring Dashboard
+The dashboard provides weight tracking, heart rate monitoring, ECG animations, health suggestions, reminder
+notifications, and charts for better healthcare visualization.
+4. Add Health Records
+Users can add weight, heart rate, symptoms, and health notes. Records can be edited, deleted, and displayed in
+timeline format.
+5. AI-Based Health Suggestions
+The system analyzes symptoms and recommends precautions and doctor specialists. Example: Fever ® General
+Physician, Chest Pain ® Cardiologist.
+6. Doctor Appointment System
+Users can choose doctors, select online/offline consultations, pick dates and time slots, and book appointments with
+confirmation.
+7. Medicine Ordering System
+The application includes medicine browsing, cart management, address input, order placement, and medicine
+delivery simulation.
+8. Emergency Support System
+The emergency module provides ambulance support, nearby hospital access, emergency contacts, and future
+emergency detection logic.
+9. Medical Timeline & Reports
+Users can upload prescriptions and maintain medical history timelines for better healthcare organization.
+10. Technologies Used
+Frontend: React.js, React Router, CSS3, Recharts. Backend: Node.js, Express.js. Database: MongoDB Atlas.
+11. Future Enhancements
+Future upgrades include smartwatch integration, live health tracking, Google Maps hospital finder, AI chatbot
+integration, and video consultation support.
+12. Conclusion
+The Smart Healthcare Platform combines healthcare monitoring, AI recommendations, emergency support, and
+medical management into a single interactive ecosystem.
+13. Project Modules Summary
+Module
+Description
+Dashboard
+Health statistics and ECG animations
+Doctor Consultation
+Appointment booking and specialist recommendation
+Medicine Ordering
+Cart and medicine delivery system
+Emergency Support
+Emergency healthcare assistance
+AI Suggestions
+Symptom-based healthcare guidance
