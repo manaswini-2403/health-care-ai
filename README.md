@@ -5,7 +5,7 @@ A modern healthcare web application that combines health monitoring, doctor appo
 
 ---
 
-#** Features**
+# Features
 
 ✅ Health Monitoring Dashboard
 ✅ ECG-Style Animated UI
