@@ -109,7 +109,7 @@ GitHub:
 https://github.com/manaswini-2403
 
 LinkedIn:
-(Add LinkedIn Link)
+www.linkedin.com/in/manaswini-sangepu
 
 ---
 
