@@ -12,12 +12,19 @@ A modern healthcare web application that combines health monitoring, doctor appo
 ✅ ECG-Style Animated UI
 
 ✅ Doctor Appointment Booking
+
 ✅ Online & Offline Consultation
+
 ✅ Medicine Ordering System
+
 ✅ AI-Based Health Suggestions
+
 ✅ Emergency Healthcare Support
+
 ✅ Health Records Management
+
 ✅ Medical Timeline Tracking
+
 ✅ Responsive Modern UI
 
 ---
