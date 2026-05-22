@@ -8,7 +8,9 @@ A modern healthcare web application that combines health monitoring, doctor appo
 # Features
 
 ✅ Health Monitoring Dashboard
+
 ✅ ECG-Style Animated UI
+
 ✅ Doctor Appointment Booking
 ✅ Online & Offline Consultation
 ✅ Medicine Ordering System
